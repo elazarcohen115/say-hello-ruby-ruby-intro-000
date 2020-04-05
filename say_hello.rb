@@ -1,1 +1,2 @@
-# Build your say_hello method her9
+def say_hello (name = programmer)
+  puts "Hello #{}"
