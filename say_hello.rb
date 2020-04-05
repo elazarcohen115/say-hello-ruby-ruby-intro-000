@@ -1,2 +1,2 @@
-def say_hello (name = programmer)
+def say_hello (name = programmer, )
   puts "Hello #{name}"
